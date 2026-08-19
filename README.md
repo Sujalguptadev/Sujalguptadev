@@ -144,3 +144,9 @@ Database-driven healthcare management solution.
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sujalguptadev/Sujalguptadev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
