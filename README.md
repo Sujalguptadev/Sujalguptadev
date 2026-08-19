@@ -1,38 +1,186 @@
-<h1 align="center">Hi 👋, I'm Sujal Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+# Hi 👋, I'm Sujal Gupta
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalguptadev&label=Profile%20views&color=0e75b6&style=flat" alt="sujalguptadev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujalguptadev" alt="sujalguptadev" /></a> </p>
-
-- 🔭 I’m currently working on [ZENTRY-GAMING](https://github.com/Sujalguptadev/ZENTRY-GAMING-)
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on [Netflix-Clone](https://github.com/Sujalguptadev/Netflix-Clone)
-
-- 🤝 I’m looking for help with [HOSPITAL-MANAGEMENT-SYSTEM](https://github.com/Sujalguptadev/HOSPITAL-MANAGEMENT-SYSTEM)
-
-- 👨‍💻 All of my projects are available at [https://sujalguptaportfolio1.netlify.app/](https://sujalguptaportfolio1.netlify.app/)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **sujalgupta1007@gmail.com**
-
-- ⚡ Fun fact **I am a Full Stack Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujal gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/pixel.pioneer100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pixel.pioneer100" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sujal gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujal gupta" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Open+Source+Learner;Building+Projects+and+Solving+Problems" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 Full Stack Developer | AWS Enthusiast | B.Tech CSE Student at GLA University</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalguptadev&show_icons=true&locale=en&layout=compact" alt="sujalguptadev" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujalguptadev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalguptadev&show_icons=true&locale=en" alt="sujalguptadev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalguptadev&" alt="sujalguptadev" /></p>
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student at GLA University, Mathura
+- 💻 Passionate Full Stack Developer
+- 🌱 Currently learning Advanced MERN Stack & Cloud Technologies
+- ☁️ Hands-on experience with AWS (EC2, S3, IAM)
+- 📊 Exploring Data Analytics, Power BI & SQL
+- 🚀 Building real-world projects and continuously improving problem-solving skills
+- 📫 Reach me at: **sujalgupta1007@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sujal74/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+</a>
+
+<a href="https://github.com/Sujalguptadev" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
+</a>
+
+<a href="https://instagram.com/pixel.pioneer100" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" width="40" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma" />
+</p>
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎮 Zentry Gaming
+
+Modern gaming website built using React, Tailwind CSS and advanced animations.
+
+🔗 https://github.com/Sujalguptadev/ZENTRY-GAMING-
+
+---
+
+## 🎬 Netflix Clone
+
+Netflix-inspired responsive web application built using HTML, CSS and JavaScript.
+
+🔗 https://github.com/Sujalguptadev/Netflix-Clone
+
+---
+
+## 🏥 Hospital Management System
+
+Healthcare management platform for managing patient and hospital records.
+
+🔗 https://github.com/Sujalguptadev/HOSPITAL-MANAGEMENT-SYSTEM
+
+---
+
+## 🌟 Certifications
+
+- AWS Cloud Fundamentals
+- IBM Granite: Code Generation & Optimization
+- TCS iON Master Data Management for Beginners
+- LinkedIn Learning Cybersecurity Fundamentals
+- Great AI Summit Certificate
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujalguptadev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalguptadev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sujalguptadev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalguptadev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sujalguptadev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📌 GitHub Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sujalguptadev&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sujalguptadev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sujalguptadev&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sujalguptadev&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sujalguptadev&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
+# ⭐ GitHub Achievements
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sujalguptadev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Sujalguptadev/Sujalguptadev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💡 Quote
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/Sujalguptadev">Sujal Gupta</a>
+</p>
