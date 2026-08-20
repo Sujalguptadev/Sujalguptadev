@@ -136,8 +136,10 @@ Database-driven healthcare management solution.
 - AWS Cloud Fundamentals
 - IBM Granite: Code Generation & Optimization
 - TCS iON Master Data Management
-- LinkedIn Learning Cybersecurity Fundamentals
-- Great AI Summit
+- Deloitte Data Analytics Job Simulation
+- Goldman Sachs Operations Job Simulation
+- Hackerrank Sql (Intermediate)
+- Anthropic Introduction to Agent Skills
 
 ---
 
