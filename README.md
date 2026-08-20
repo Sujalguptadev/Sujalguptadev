@@ -74,13 +74,14 @@ Database-driven healthcare management solution.
 🔗 https://github.com/Sujalguptadev/HOSPITAL-MANAGEMENT-SYSTEM
 
 ---
-
-# 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Activity</h1>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujalguptadev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://streak-stats.demolab.com?user=Sujalguptadev&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalguptadev&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalguptadev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
